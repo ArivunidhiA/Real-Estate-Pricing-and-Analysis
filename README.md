@@ -6,8 +6,8 @@ This interactive Power BI dashboard provides a comprehensive overview of propert
 
 The dashboard analyzes property sales data across **revenue**, **expenses**, **income**, **property types**, **sales channels**, and **geographic regions**, while also profiling top clients. It compares performance over the years **2022–2024**.
 
-R2.png
-R3.png
+![Dashboard Screenshot 1](R2.png)  
+![Dashboard Screenshot 2](R3.png)
 ---
 
 ## 🧩 Key Features
